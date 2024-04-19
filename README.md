@@ -1,3 +1,6 @@
+<img width="1440" alt="Screenshot 2024-04-19 at 6 33 03 PM" src="https://github.com/akshajuppala/AJmart/assets/55721143/0b9d819a-3917-424b-9d3a-0f37d459af2d">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
